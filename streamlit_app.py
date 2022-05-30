@@ -1,4 +1,4 @@
-import streamlit 
+import streamlit sl
 streamlit.title('My parents healthy dinner')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeat')
